@@ -2,6 +2,13 @@
 
 Ce projet génère et résout un labyrinthe en C avec animation SDL2.
 
+
+## Aperçu
+
+![Génération du labyrinthe](maze_gen.jpg)
+![Résolution BFS](maze_search.jpg)
+![Chemin le plus court](maze_solved.jpg)
+
 ## Fonctionnement
 
 Le programme se déroule en **4 phases visuelles** :
